@@ -2,6 +2,7 @@ app.db
 
 #packages
 __pycache__
+logs
 
 #others
 venv
